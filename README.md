@@ -1,2 +1,2 @@
 # rancid
- RANCID scripts with support of HP 19xx switches
+ RANCID scripts with support for HP 19xx switches. Modified scripts of Cisco and H3C. 
